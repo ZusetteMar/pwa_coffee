@@ -3,7 +3,7 @@ const CACHE_NAME = "coffee-pwa-v1";
 const ARCHIVOS = [
     "./",
     "./index.html",
-    "./css/style.css",
+    "./CSS/style.css",
     "./js/app.js",
     "./manifest.json",
     "./images/coffee/coffee1.jpg",
